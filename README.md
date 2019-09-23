@@ -20,6 +20,8 @@ WC Vendors MarketplaceWCFM MarketplaceWooCommerce Product VendorsYITH Multi-Vend
 * Setup smart Coupons* Shopping Cart and Wishlist.
 * Secure Checkout System
 * Fix errors +more.
+
+
 Regards,
 
 Ravi Soni
